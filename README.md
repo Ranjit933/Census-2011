@@ -5,6 +5,7 @@ According to the Census Statistics 2011, the population of India was 1,210,854,9
 Census is the process by which the information of a given population is calculated on the basis of economical, educational and social records, in a given period of time. Census is calculated after regular time intervals. These are some basic census facts. In India, the census is carried out every 5 years. The last census was calculated in the year 2011. This official census 2011 was the 15th census calculation which was done India. It was carried out in two main phases- population listing and house enumeration.
 
 # Census 2011 SQL Server Project
+![](https://github.com/Ranjit933/Census-2011/blob/main/images.jpeg)
 
 # Overview
 
