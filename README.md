@@ -34,3 +34,11 @@ This project aims to analyze and visualize data from the Census 2011 dataset usi
 * Demographic Distribution: Gender and population analysis by region.
 
 * Top 5 Most Populated Regions: Identification of regions with the highest populations.
+
+* Performed advanced level query.
+
+* Using Joins
+
+* Using some mathematics formula.
+
+* Using statistical analysis.
